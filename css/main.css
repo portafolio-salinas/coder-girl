@@ -1,0 +1,48 @@
+.navbar-default {
+	margin-bottom: 0;
+}
+.navbar-right{
+	margin-top: 10%;
+}
+.fondo {
+	background-image: url(../img/home.jpg);
+ /*borrar el alto para luego del relleno con padding*/
+}
+.chicas {
+	color: white;
+	padding-top:20%; 
+}
+.btn {
+	margin-bottom: 20%;
+}
+.parraf {
+	font-size: 15px;
+}
+img {
+	max-width: 100%;
+}
+
+.yellow{
+	background: yellow;
+	padding: 4%;
+	margin-top: 2%;
+}
+input {
+	margin-bottom: 10%;
+}
+.contacto {
+	margin: 13%;
+}
+.mensaje {
+	margin-bottom: 10%;
+}
+.blue {
+	background: #204686;
+}
+span {
+	color: #FED90D;
+}
+.pie {
+	color: white;
+	margin: 2%;
+}
